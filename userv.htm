@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login Page</title>
+  <script>
+    function validate() {
+      const userId = document.getElementById("userId").value;
+      const password = document.getElementById("password").value;
+
+      // Check if user ID is not empty
+      if (userId === "") {
+        alert("User ID cannot be empty");
+        return false;
+      }
+
+      // Check if password is not empty
+      if (password === "") {
+        alert("Password cannot be empty");
+        return false;
+      }
+
+      // Check if password is at least 8 characters long
+      if (password.length < 8) {
+        alert("Password must be at least 8 characters long");
+        return false;
+      }
+
+      // If all checks pass, return true to submit form
+      return true;
+    }
+  </script>
+</head>
+<body>
+  <form onsubmit="return validate()">
+    <label for="userId">User ID:</label>
+    <input type="text" id="userId" name="userId"><br>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password"><br>
+
+    <input type="submit" value="Login">
+  </form>
+</body>
+</html>
