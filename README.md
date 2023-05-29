@@ -9,3 +9,6 @@
 4) [Clock](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Clock)  : [Live-Demo](https://live-wallclock.netlify.app/)
 
 5) [Quote-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Quote-Generator)  : [Live-Demo](https://ordered-quote-generator.netlify.app/)
+
+6) [StopWatch](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Quote-Generator/Stopwatch)  :
+[Live-Demo](https://stop-watchtimer.netlify.app/)
