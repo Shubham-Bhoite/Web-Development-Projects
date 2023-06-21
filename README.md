@@ -13,3 +13,5 @@
 6) [StopWatch](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Quote-Generator/Stopwatch)  :
 [Live-Demo](https://stop-watchtimer.netlify.app/)
 
+7) [Mouse-Event](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Mouse-Event)   :
+[Live-Demo](https://event-mouse.netlify.app/)
