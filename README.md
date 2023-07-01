@@ -15,3 +15,5 @@
 
 7) [Mouse-Event](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Mouse-Event)   :
 [Live-Demo](https://event-mouse.netlify.app/)
+
+8) [Dice-Roll-Simulator]()
