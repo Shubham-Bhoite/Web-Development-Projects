@@ -21,4 +21,3 @@
 
 9) [Anime-Pic-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Anime-Pic-Generator) : 
 [Live-Demo](https://anime-pics.netlify.app/)
-  10 )  [vrad generation]
