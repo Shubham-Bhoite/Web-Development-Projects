@@ -27,3 +27,6 @@
 
 10) [Currency-Converter](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Currency-Converter) :
 [Live-Demo](https://currency-converting-web.netlify.app/)
+
+11) [Emoji-Rating](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Emoji-Rating) :
+[Live-Demo](https://emotion-rating.netlify.app/)
