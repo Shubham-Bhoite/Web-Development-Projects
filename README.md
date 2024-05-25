@@ -45,3 +45,6 @@
 
 16) [Memory Card Game](https://github.com/Shubham-Bhoite/Memory-Card-Game) :
 [Live-Demo](https://onlinematching-game.netlify.app/)
+
+17) [Dictionary App](https://github.com/Shubham-Bhoite/Dictionary-App) :
+[Live-Demo](https://dictionary-app-online.netlify.app/)
