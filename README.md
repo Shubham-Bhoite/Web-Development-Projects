@@ -19,8 +19,8 @@
 7) [Mouse-Event](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Mouse-Event)   :
 👉[Live-Demo](https://event-mouse.netlify.app/)
 
-👉8) [Dice-Roll-Simulator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Dice-Roll-Simulator) :
-[Live-Demo](https://dice-roll-simulator.netlify.app/)
+8) [Dice-Roll-Simulator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Dice-Roll-Simulator) :
+👉[Live-Demo](https://dice-roll-simulator.netlify.app/)
 
 9) [Anime-Pic-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Anime-Pic-Generator) : 
 [Live-Demo](https://anime-pics.netlify.app/)
