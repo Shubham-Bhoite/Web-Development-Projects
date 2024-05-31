@@ -11,15 +11,15 @@
 
 4) [Clock](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Clock)  : 👉[Live-Demo](https://live-wallclock.netlify.app/)
 
-5) [Quote-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Quote-Generator)  : [Live-Demo](https://ordered-quote-generator.netlify.app/)
+5) [Quote-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Quote-Generator)  : 👉[Live-Demo](https://ordered-quote-generator.netlify.app/)
 
 6) [StopWatch](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Quote-Generator/Stopwatch)  :
-[Live-Demo](https://stop-watchtimer.netlify.app/)
+👉[Live-Demo](https://stop-watchtimer.netlify.app/)
 
 7) [Mouse-Event](https://github.com/Shubham-Bhoite/Web-Development-Project/tree/main/Mouse-Event)   :
-[Live-Demo](https://event-mouse.netlify.app/)
+👉[Live-Demo](https://event-mouse.netlify.app/)
 
-8) [Dice-Roll-Simulator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Dice-Roll-Simulator) :
+👉8) [Dice-Roll-Simulator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Dice-Roll-Simulator) :
 [Live-Demo](https://dice-roll-simulator.netlify.app/)
 
 9) [Anime-Pic-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Anime-Pic-Generator) : 
