@@ -23,16 +23,16 @@
 👉[Live-Demo](https://dice-roll-simulator.netlify.app/)
 
 9) [Anime-Pic-Generator](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Anime-Pic-Generator) : 
-[Live-Demo](https://anime-pics.netlify.app/)
+👉[Live-Demo](https://anime-pics.netlify.app/)
 
 10) [Currency-Converter](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Currency-Converter) :
-[Live-Demo](https://currency-converting-web.netlify.app/)
+👉[Live-Demo](https://currency-converting-web.netlify.app/)
 
 11) [Emoji-Rating](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Emoji-Rating) :
-[Live-Demo](https://emotion-rating.netlify.app/)
+👉[Live-Demo](https://emotion-rating.netlify.app/)
 
 12) [I Love You Animation](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/I%20Love%20You%20Animation) :
-[Live Demo](https://i-love-you-animation.netlify.app/)
+👉[Live Demo](https://i-love-you-animation.netlify.app/)
 
 13) [Recipe Book App](https://github.com/Shubham-Bhoite/Web-Development-Project-For-Beginners/tree/main/Recipe-Book-App) :
 [Live-Demo](https://recipe-booking-app.netlify.app/)
