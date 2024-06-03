@@ -47,10 +47,10 @@
 👉[Live-Demo](https://onlinematching-game.netlify.app/)
 
 17) [Dictionary App](https://github.com/Shubham-Bhoite/Dictionary-App) :
-[Live-Demo](https://dictionary-app-online.netlify.app/)
+👉[Live-Demo](https://dictionary-app-online.netlify.app/)
 
 18) [My Portfolio](https://github.com/Shubham-Bhoite/My-Portfolio) : 
-[Live-Demo](https://portfolio-shubhu.netlify.app/)
+👉[Live-Demo](https://portfolio-shubhu.netlify.app/)
 
 19) [GateMasters ](https://github.com/Shubham-Bhoite/GateMasters) :
 [Live-Demo](https://www.gatemasters.tech/)
