@@ -56,4 +56,4 @@
 👉[Live-Demo](https://www.gatemasters.tech/)
 
 20) [Link To Repo](https://github.com/Shubham-Bhoite/Link-to-Repo) :
-    [Live-Demo](https://link-to-repo.netlify.app/)
+   👉 [Live-Demo](https://link-to-repo.netlify.app/)
